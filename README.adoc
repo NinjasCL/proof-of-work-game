@@ -53,3 +53,7 @@ Este proceso se repite hasta llegar a 5 bloques en la cadena principal.
 Si producto de un fork se pasan los 5 bloques. Las chauchas confirmadas 
 solo serán hasta llegar al bloque 5 (5 CHA). Los demás bloques 
 se pueden mantener si se quiere prolongar el tiempo de juego.
+
+image:1.jpg[]
+image:2.jpg[]
+image:3.jpg[]
